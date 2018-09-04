@@ -1,0 +1,8 @@
+# Fallout4 Mods
+- [ ] [ Item Collector](http://fallout4.2game.info/detail.php?id=28952)
+- [ ] [Better Companions - No Conflicts](http://fallout4.2game.info/detail.php?id=24233)
+- [ ] [Crafting Workbenches - Craftable Weapons Armor Clothing Ammo Junk](http://fallout4.2game.info/detail.php?id=2451)
+- [ ] [ Companion Overhaul by DeadCh1cken](http://fallout4.2game.info/detail.php?id=26502)
+- [ ] [Sexy Hancock](http://fallout4.2game.info/detail.php?id=12029)
+- [ ] [Icebreaker - Piper - Companion Dialogue Overhaul](http://fallout4.2game.info/detail.php?id=25525)
+- [ ] [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](http://fallout4.2game.info/detail.php?id=9568)
