@@ -6,3 +6,5 @@
 - [ ] [Sexy Hancock](http://fallout4.2game.info/detail.php?id=12029)
 - [ ] [Icebreaker - Piper - Companion Dialogue Overhaul](http://fallout4.2game.info/detail.php?id=25525)
 - [ ] [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](http://fallout4.2game.info/detail.php?id=9568)
+- [ ] [Plutonium Creatures](http://fallout4.2game.info/detail.php?id=32647)
+- [ ] [Wasteland Horrors - Reshade Preset (REUPLOADED)](http://fallout4.2game.info/detail.php?id=18132)
