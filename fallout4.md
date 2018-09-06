@@ -8,3 +8,4 @@
 - [ ] [Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton](http://fallout4.2game.info/detail.php?id=9568)
 - [ ] [Plutonium Creatures](http://fallout4.2game.info/detail.php?id=32647)
 - [ ] [Wasteland Horrors - Reshade Preset (REUPLOADED)](http://fallout4.2game.info/detail.php?id=18132)
+- [ ] [ENB FXAA SweetFX Manager](https://www.nexusmods.com/fallout4/mods/9838/?)
